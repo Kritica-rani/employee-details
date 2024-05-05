@@ -1,0 +1,29 @@
+/* header styles */
+.head-container {
+  height: 5rem;
+  border-bottom: 1px solid grey;
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  justify-content: center;
+}
+
+/* EmployeesDetail */
+.employees-detail {
+  display: flex;
+}
+
+/* Employee List */
+.employee-list {
+  width: 30%;
+  border-right: 1px solid grey;
+  height: 100%;
+}
+/* Employee Card */
+
+.employe-card-container {
+  width: 70%;
+  padding: 2rem;
+}
+.employe-card-container-box {
+}
